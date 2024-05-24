@@ -28,7 +28,4 @@ Here are some of the projects I'm currently working on:
 1. **Genomic Sequencing Analysis Tool**: Developing a tool to analyze genomic sequencing data for identifying mutations and variations.
 
 2. **Genomic  Database**: Creating a unique database to store and analyze genomic data for education, research & conservation efforts of Indegenous plant & animal species of India.
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sastha-Kumar-N&layout=compact)
 
