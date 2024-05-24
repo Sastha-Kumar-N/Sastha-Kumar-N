@@ -1,6 +1,8 @@
 # Welcome to Sastha Kumar N's GitHub Profile! 👋
 
 [![Profile Banner](1.jpg)]: # 
+[This is a comment that will be hidden.]: # 
+
 
 ## About Me
 
