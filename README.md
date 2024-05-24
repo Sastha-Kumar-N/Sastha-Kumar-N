@@ -1,6 +1,6 @@
 # Welcome to Sastha Kumar N's GitHub Profile! 👋
 
-[![Profile Banner](1.jpg)]:#
+[![Profile Banner](1.jpg)]: # 
 
 ## About Me
 
