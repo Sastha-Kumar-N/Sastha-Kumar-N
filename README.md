@@ -1,7 +1,6 @@
 # Welcome to Sastha Kumar N's GitHub Profile! 👋
 ## About Me
-
-👀 Hi, I’m Sastha Kumar N, passionate about Molecular & Genetic Biology, bioinformatics, and database development. Currently, I am a Research Administrator and Developer at Bharat Genome Database, where I contribute to the management and development of various genomic and bioinformatics projects.
+Hi, I’m Sastha Kumar N, passionate about Molecular & Genetic Biology, bioinformatics, and database development. Currently, I am a Research Administrator and Developer at Bharat Genome Database, where I contribute to the management and development of various genomic and bioinformatics projects.
 
 ## Interests
 
@@ -15,7 +14,7 @@
 
 ## Collaboration
 
-💞️ I’m looking to collaborate on research projects related to genomics, bioinformatics, and database development. Let's connect and innovate together!
+I’m looking to collaborate on research projects related to genomics, bioinformatics, and database development. Let's connect and innovate together!
 
 ## Reach Me
 
