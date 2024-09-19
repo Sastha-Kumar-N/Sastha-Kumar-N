@@ -3,7 +3,7 @@
 Hi, I’m Sastha Kumar N, passionate about Molecular & Genetic Biology, bioinformatics, and database development. Currently, I am a Research Administrator and Developer at Bharat Genome Database, where I contribute to the management and development of various genomic and bioinformatics projects.
 
 ## Interests
-
+- AI & ML For Lifescience
 - Molecular & Genetic Biology
 - Bioinformatics
 - Database Development
