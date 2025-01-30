@@ -1,30 +1,44 @@
-# Welcome to Sastha Kumar N's GitHub Profile! 👋
-## About Me
-Hi, I’m Sastha Kumar N, passionate about Molecular & Genetic Biology, bioinformatics, and database development. Currently, I am a Research Administrator and Developer at Bharat Genome Database, where I contribute to the management and development of various genomic and bioinformatics projects.
+<h1 align="center">Hi 👋, I'm Sastha Kumar N</h1>
+<h3 align="center">Passionate about Molecular & Genetic Biology, Bioinformatics, and AI for Life Sciences</h3>
 
-## Interests
-- AI & ML For Lifescience
-- Molecular & Genetic Biology
-- Bioinformatics
-- Database Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasthakumarn&label=Profile%20views&color=0e75b6&style=flat" alt="sasthakumarn" /> </p>
 
-## Learning Journey
+- 🌱 I’m currently learning **Advanced Bioinformatics, AI/ML for Life Sciences, and Database Management**
 
-🌱 I’m currently learning advanced techniques in bioinformatics and database management to enhance my skills and contribute more effectively to research projects.
+- 👨‍💻 My Portfolio [https://sasthakumar.com](https://sasthakumar.com)
 
-## Collaboration
+- 💬 Ask me about **Genomics, Bioinformatics, Database Development, and AI for Life Sciences**
 
-I’m looking to collaborate on research projects related to genomics, bioinformatics, and database development. Let's connect and innovate together!
+- 📫 How to reach me **sasthakumarn@gmail.com**
 
-## Reach Me
+<img align="right" alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sasthakumar-n-8a2260194/) to discuss opportunities or collaborations.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sasthakumar-n-8a2260194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasthakumar-n" height="30" width="40" /></a>
+<a href="https://medium.com/@sasthakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sasthakumar" height="30" width="40" /></a>
+</p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-Here are some of the projects I'm currently working on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasthakumarn&show_icons=true&locale=en&layout=compact" alt="sasthakumarn" /></p>
 
-1. **Genomic Sequencing Analysis Tool**: Developing a tool to analyze genomic sequencing data for identifying mutations and variations.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasthakumarn&show_icons=true&locale=en" alt="sasthakumarn" /></p>
 
-2. **Genomic  Database**: Creating a unique database to store and analyze genomic data for education, research & conservation efforts of Indegenous plant & animal species of India.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasthakumarn&" alt="sasthakumarn" /></p>
+
+<h3 align="left">Projects:</h3>
+<ul>
+<li><strong>Genomic Sequencing Analysis Tool</strong>: Developing a tool to analyze genomic sequencing data for identifying mutations and variations.</li>
+<li><strong>Genomic Database</strong>: Creating a database to store and analyze genomic data for education, research & conservation of indigenous plant & animal species in India.</li>
+</ul>
+
 
