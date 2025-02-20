@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 [![Research](https://img.shields.io/badge/Portfolio-Explore-%2300CC88?style=flat)](https://your-portfolio-link)
 
-""Biology’s complexity demands AI that thinks like Darwin and codes like Turing."
+"Biology’s complexity demands AI that thinks like Darwin and codes like Turing."
 
 ---
 
