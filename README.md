@@ -28,9 +28,12 @@ I'm a passionate researcher and developer working at the intersection of **Biolo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sastha-kumar&show_icons=true&theme=radical" alt="Sastha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sastha-Kumar-N&show_icons=true&theme=radical" alt="Sastha's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sastha-Kumar-N&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sastha-Kumar-N&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📚 Latest Blog Posts
